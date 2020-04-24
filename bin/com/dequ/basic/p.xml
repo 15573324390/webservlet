@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+ <person>
+   <name>村上春树</name>
+   <Sayings>总之岁月漫长，然而值得等待</Sayings>
+ </person>
+ <person>
+   <name>毛不易</name>
+   <Sayings>我减肥成功了都夸我有毅力，每一个夸我帅的</Sayings>
+ </person>
+  <person>
+   <name>吴惟信</name>
+   <Sayings>梨花风起正清明，游子寻春半出城</Sayings>
+ </person>
+</persons>
