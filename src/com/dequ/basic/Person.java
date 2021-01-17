@@ -2,9 +2,12 @@ package com.dequ.basic;
 
 public class Person {
 
+
+
+
 	private String name;
 	private String Sayings;
-	
+
 	public Person() {
 		super();
 	}
